@@ -13,3 +13,5 @@ the red power-ups increase your damage
 
 *note* if there is some bug hit M2 to reset the game, if there is still some bug (which there shouldn't be, then just
  exit and reenter)
+*note* if for some reason it freezes when you fire, then hit the scroll wheel to reset the projectiles (!!This wil only
+reset the projectiles, nothing else!!)
